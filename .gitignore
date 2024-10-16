@@ -1,0 +1,18 @@
+# Build directory
+/build/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Executables
+HexSudoku
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other
+*.log
