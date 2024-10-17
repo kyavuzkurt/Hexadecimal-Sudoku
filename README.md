@@ -128,7 +128,7 @@ After successfully building the project, run the executable:
 4. **Making a Move:**
    - Click on an empty cell to select it.
    - Enter a hexadecimal digit (`0-9` or `A-F`) using your keyboard.
-   - To clear a cell, select it and press **Backspace**.
+
 
 5. **Undoing a Move:**
    - Click the **Undo** button below the grid to revert your last move.
