@@ -1,9 +1,8 @@
-#include "SudokuBoard.h"
+#include "GUI/GameWindow.h"
 
-int main() {
-    SudokuBoard board;
-    board.setCell(0, 0, 'A');
-    board.setCell(1, 1, 'B');
-    board.display();
+int main()
+{
+    GameWindow gameWindow(800, 800, "Hexadecimal Sudoku");
+    gameWindow.run();
     return 0;
 }
